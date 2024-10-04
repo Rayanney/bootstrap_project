@@ -1,0 +1,97 @@
+body{
+    background-image:url("black.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .container{
+
+ }   
+.head{
+    text-align: center;
+    font-size: 40px;
+}
+.text{
+ text-align: center;
+ font-size: 20px;
+}.course{
+    white-space: nowrap;
+    background-color: orange;
+    color: black;
+    padding: 5px 5px 5px 5px;
+    
+}
+.list1{
+    list-style: none;
+    white-space: nowrap;
+}
+.price{
+ margin-top: 45px;
+}
+.list2{
+    list-style: none;
+    
+}
+
+.main{
+    
+    padding: 5px 5px 5px 5px;
+    margin-left: 50px;
+    background-color: orange;
+    padding-right: 15px;
+}
+.drinker{
+    background-color: orange;
+    color: black;
+    padding: 5px;
+    border-radius:5px;
+}
+.drinking{
+    margin-top: 20px;
+}
+.list3{
+    list-style: none;}
+    .drinking{
+        margin-top: 50px;
+    }
+.list4{
+  list-style: none;
+  
+
+}
+.milky{
+    border-radius: 200px;
+    margin-left: 40px;
+    background-color: orange;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.course1{
+    background-color: rgba(250, 67, 250, 0.486);
+    padding: 15px;}
+
+.price5{
+    margin-top: 60px;
+}
+.cake{
+    border-radius: 400px;
+    margin-left: 30px;
+    margin-top:-10px;
+}
+.list7{
+    list-style: none;}
+.apper{
+ padding: 10px;
+ background-color: rgba(250, 67, 250, 0.486);
+
+}
+.img{
+    width: 250px;
+    height: 150px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-color: #ff00ffac;
+    
+    
+
+}

@@ -1,0 +1,30 @@
+body{
+    background-image: url("burger.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.nabvar{
+    background-color: black;
+    border-radius: 0px;
+}
+.parag{
+ margin-left: 400px;
+ margin-top: 80px;
+ font-size: 30px;
+ color: whitesmoke;
+}
+.image1{
+    width:1500px ;
+    height:900px ;
+}
+.btn{
+margin-left: 500px;
+ margin-top:20px ;
+ border-radius: 5px;
+    
+}
+.row{
+    display: ;
+}

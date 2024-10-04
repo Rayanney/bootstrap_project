@@ -1,0 +1,43 @@
+body{
+    background-image: url(wheat.png);
+}
+.container{
+    background-color:burlywood;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.namemail{
+    display: flex;
+    justify-self: space-between;  
+}
+
+.first{
+    margin-right:20px;
+    
+}
+.second{
+    margin-right: 20px;
+}
+.email{
+    margin-left:30px;
+    margin-right: 30px;
+}
+.address1{
+    margin-right: 80px;
+}
+.btn{
+    margin-top:20px ;
+    margin-left: 10px;
+}
+.icons{
+    display:flex;
+    justify-self:space-between;
+    width: 100px;
+    height:70px;
+}
+.icon{
+    padding:0 90px;
+}

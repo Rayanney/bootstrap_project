@@ -1,0 +1,66 @@
+body{
+    background-image: url(brown.jfif);
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.header{
+    text-align: center;
+    margin-left: -20px;
+}
+
+.div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mission{
+    text-align: center;
+    
+}
+.about{
+    color:black;
+    margin-top: -80px;
+    background-color:burlywood;
+    padding: 10px ;
+    border-radius: 10px;
+    margin-right:50px;
+}
+
+.parag2{
+    text-align: left;
+    margin-top: 40px;
+    color: white;
+}
+
+
+.image5{
+    width: 500px;
+    height: 220px;
+    border-radius: 40px;
+    margin-left: 10px;
+
+}
+.second{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.image6{
+    border-radius: 40px;
+    width: 500px;
+    height: 250px;
+    margin-top: 10px;
+
+
+}
+
+.parag3{
+    color: white;
+    margin-left: 30px;
+}
